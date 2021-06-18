@@ -1,8 +1,8 @@
-#TECNICAS Y HERRAMIENTAS MODERNAS
-#### Trabajo de Tecnicas Herraminetas Modernas <br>
+# TÉCNICAS Y HERRAMIENTAS MODERNAS
+#### Trabajo de Técnicas Herraminetas Modernas <br>
 #### Moodulo 1 <br>
-#### Creacion de Textos e Hipertextos. <br>
-#### Creacion de una carpeta para el CV y otras carpeta para el capitulo del libro
+#### Creación de Textos e Hipertextos. <br>
+#### Creación de una carpeta para el CV y otras carpeta para el capítulo del libro
 
 
 # Repositorio de Github
@@ -11,4 +11,8 @@
 <a href= "https://github.com/sofialandi/sofialandi/blob/main/CV_sofia.pdf">
 <img src= "https://user-images.githubusercontent.com/82980738/122609974-41d1d400-d055-11eb-9649-dfa23fb41b16.png
 " alt="cv" width="300px">
-     
+</a>
+
+# Traducción del capítulo 10
+<p>Traducción y resumen sobre la descarbonización</p>
+<a href=""
